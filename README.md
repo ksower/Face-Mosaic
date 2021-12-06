@@ -26,3 +26,4 @@ Use the above methods to mask the detected face in the image.
 
 
 ## Result
+It is an image processed by original, mosaic processing, sticker processing, and colorbox in order from the top left.
