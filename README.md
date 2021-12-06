@@ -16,4 +16,4 @@ Use the above methods to mask the detected face in the image.
 - library : tkinter, cvlib, opencv
 
 
-## Mauual
+## Manual
