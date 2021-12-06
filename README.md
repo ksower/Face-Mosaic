@@ -9,3 +9,11 @@ This project is to develop a program that detects faces and mosaics them in a se
 3. color box
 
 Use the above methods to mask the detected face in the image.
+
+
+## Language
+- python
+- library : tkinter, cvlib, opencv
+
+
+## Mauual
