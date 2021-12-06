@@ -1,0 +1,13 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/cvlib
+/yolov5 face detection training(보류)
+
+# compile
+/__pycache__
+/.ipynb_checkpoints
+
+# production
+/build
+/dist
