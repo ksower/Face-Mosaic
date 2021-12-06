@@ -27,3 +27,4 @@ Use the above methods to mask the detected face in the image.
 
 ## Result
 It is an image processed by original, mosaic processing, sticker processing, and colorbox in order from the top left.
+![mosaicImg_result](https://user-images.githubusercontent.com/67861728/144838102-143dec0f-dc66-4648-8ea0-fbc4e0d7017c.png)
