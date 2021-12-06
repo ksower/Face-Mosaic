@@ -22,3 +22,7 @@ Use the above methods to mask the detected face in the image.
 1. Select file to process.
 2. Select the option to process. Set the fps for mosaic ratio and video. Choose from mosaics, stickers, and colorboxes. For stickers, choose the image you want to use. For colorbox, choose a color.
 3. If you click the process button, processing proceeds, and the completed image or video is saved as result.jpg or result.avi file in the same directory.
+
+
+
+## Result
